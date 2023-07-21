@@ -1,4 +1,4 @@
-[![MasterHead](https://topflightapps.com/wp-content/uploads/2022/04/DevOps-implementation-main-banner.jpg)]
+![MasterHead](https://topflightapps.com/wp-content/uploads/2022/04/DevOps-implementation-main-banner.jpg)]
 <h1 align="center">Hi 👋, I'm Mrinalini Verma</h1>
 <h3 align="center">🚀 DevOps Engineer | Automation Enthusiast | Continuous Delivery Advocate</h3>
 
